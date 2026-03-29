@@ -29,6 +29,6 @@ This project analyzes sales data using Python and SQL.
 2. Run the script:
    python sales_analysis.py
 
-# Samplw output
+# Sample output
 - Monthly sales trend graph
 - top 5 products chart
