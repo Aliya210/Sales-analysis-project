@@ -23,7 +23,7 @@ This project analyzes sales data using Python and SQL.
 - sales.csv -->Dataset used
 - sales.db --> SQLite database
 
-# HOW to RUn
+# How to RUN
 1. install required libraries:
    pip install padans matplotlib
 2. Run the script:
